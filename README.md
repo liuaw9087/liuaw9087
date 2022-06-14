@@ -15,7 +15,7 @@
 
 
 
-<div align="center">![madneal's github stats](https://github-readme-stats.vercel.app/api?username=liuawliuaw&show_icons=true&theme=radical)</div>
+![madneal's github stats](https://github-readme-stats.vercel.app/api?username=liuawliuaw&show_icons=true&theme=radical)
 
 
 
